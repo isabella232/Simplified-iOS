@@ -674,7 +674,7 @@ didReceiveChallenge:(NSURLAuthenticationChallenge *const)challenge
        if(statusCode == 200) {
 #if defined(FEATURE_DRM_CONNECTOR)
          [[NYPLADEPT sharedInstance]
-          authorizeWithVendorID:@"NYPL"
+          authorizeWithVendorID:@"Datalogics"
           username:self.barcodeTextField.unmaskedText
           password:self.PINTextField.text
           completion:^(BOOL success, NSError *error) {
