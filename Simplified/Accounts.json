@@ -51,8 +51,8 @@
  "mainColor" : "497049"
  },
  {
- "id" : 3,
- "pathComponent" : "3",
+ "id" : 7,
+ "pathComponent" : "7",
  "name" : "Alameda County Library",
  "subtitle" : "Infinite possibilities",
  "logo" : "LibraryLogoAlameda",
@@ -63,7 +63,7 @@
  "supportsCardCreator" : false,
  "supportsReservations" : true,
  "supportsHelpCenter" : false,
- "catalogUrl" : "http://acl.simplye-ca.org",
+ "catalogUrl" : "http://acl.simplye-ca.org/CALMDA/",
  "mainColor" : "58a6f5"
  },
  {
@@ -79,7 +79,7 @@
  "supportsCardCreator" : false,
  "supportsReservations" : true,
  "supportsHelpCenter" : false,
- "catalogUrl" : "http://howard.simplye-md.org",
+ "catalogUrl" : "http://howard.simplye-md.org/",
  "mainColor" : "0066CC",
  "authPasscodeLength" : 0,
  "authPasscodeAllowsLetters" : true
@@ -97,7 +97,7 @@
  "supportsCardCreator" : false,
  "supportsReservations" : true,
  "supportsHelpCenter" : false,
- "catalogUrl" : "http://montgomery.simplye-md.org",
+ "catalogUrl" : "http://montgomery.simplye-md.org/",
  "mainColor" : "0067b1",
  "authPasscodeLength" : 0,
  "authPasscodeAllowsLetters" : true
@@ -115,7 +115,7 @@
  "supportsCardCreator" : false,
  "supportsReservations" : true,
  "supportsHelpCenter" : false,
- "catalogUrl" : "http://frederick.simplye-md.org",
+ "catalogUrl" : "http://frederick.simplye-md.org/",
  "mainColor" : "ef4123",
  "authPasscodeLength" : 0,
  "authPasscodeAllowsLetters" : true
@@ -133,7 +133,7 @@
  "supportsCardCreator" : false,
  "supportsReservations" : true,
  "supportsHelpCenter" : false,
- "catalogUrl" : "http://anne-arundel.simplye-md.org",
+ "catalogUrl" : "http://anne-arundel.simplye-md.org/",
  "mainColor" : "0b9da1",
  "authPasscodeLength" : 0,
  "authPasscodeAllowsLetters" : true
